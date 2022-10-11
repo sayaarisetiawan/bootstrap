@@ -53,13 +53,13 @@
 #menu {
     padding-top: 10px;
     padding-bottom: 10px;
-    float: right;
+    float: left;
     width: 1000px;
 }
 
 #menu li {
-    float: right;
-    list-style: align=right;
+    float: left;
+    list-style: align=left;
     margin-left: 10px;
     margin-right: 10px;
 }
